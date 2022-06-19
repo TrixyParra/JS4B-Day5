@@ -1,0 +1,46 @@
+body {
+    background-color:seagreen;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 95px;
+}
+
+.pass {
+    text-align: center; 
+    background-color: tan; 
+    border: 3px solid rgb(9, 56, 9);
+    width: 420px;
+    height: 230px;
+    margin: auto;
+    margin-top: 70px; 
+}
+
+h2 {
+    color:saddlebrown;
+    margin-top: 45px;
+    margin-bottom: 35px;
+} 
+
+label {
+    color: saddlebrown;
+    font-weight: bolder;
+    font-size: 19px;
+}
+
+#password {
+    font-size: 14px;
+}
+
+#button {
+    background-color: peru;
+    color: white;
+    border-color: saddlebrown;
+    display: flex;
+    margin: auto; 
+    padding: 5px 20px; 
+    margin-top: 30px;
+    margin-bottom: 45px;
+}
